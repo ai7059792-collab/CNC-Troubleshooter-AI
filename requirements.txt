@@ -1,0 +1,4 @@
+streamlit>=1.40.0
+groq>=0.13.0
+pypdf[crypto]>=6.18.1
+cryptography>=46.0.0
